@@ -1,0 +1,41 @@
+baseURL: "https://yoursite.example.com/"
+languageCode: "en-us"
+title: "SIFI"
+theme: "PaperMod"
+
+
+
+params:
+
+  homeInfoParams:
+    Title: "SIFI - Sikkerhet på IFI"
+    Content: "SIFI er en linjeforening til masterprogrammet Informasjonssikkerhet på UiO. \n\n Mer tekst her. "
+  socialIcons:
+    - name: facebook
+      url: "https://www.facebook.com/profile.php?id=100091625065665"
+    - name: discord
+      url: "https://discord.com/xxxxx"
+    - name: instagram
+      url: "https://www.instagram.com/sikkerhetifi/"
+
+
+
+  ShowBreadCrumbs: True
+
+  ShowPostNavLinks: true
+
+
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tages
+      name: Tags
+      url: /Tags/
+      weight: 20
+    - identifier: archives
+      name: Arkiv
+      url: /archives/
+      weight: 30

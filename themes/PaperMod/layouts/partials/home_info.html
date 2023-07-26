@@ -1,0 +1,26 @@
+{{- with site.Params.homeInfoParams }}
+<article class="first-entry home-info">
+    <header class="entry-header">
+        <h1>{{ .Title | markdownify }}</h1>
+    </header>
+    <div class="entry-content">
+        {{ .Content | markdownify }}
+    </div>
+    <div class="custom-image">
+    <!--    <img src="https://i.imgur.com/8Awybuf.png" alt="Custom Image"> --->
+    <h3></h3>
+
+
+    </div>
+
+    <div class="custom-socials">
+        <p>Følg oss på sosiale medier:</p>
+    </div>
+
+    <footer class="entry-footer">
+        {{ partial "social_icons.html" site.Params.socialIcons }}
+    </footer>
+
+</article>
+{{- end -}}
+
