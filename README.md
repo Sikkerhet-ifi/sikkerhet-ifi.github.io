@@ -7,3 +7,5 @@ Website created with Hugo
 - Instagram feed
 - Auto post fra Discord announcments
 - Skrive om oss side
+- Legge inn logo
+

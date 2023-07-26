@@ -1,4 +1,4 @@
-baseURL: "https://yoursite.example.com/"
+baseURL: "https://sifi.no/"
 languageCode: "en-us"
 title: "SIFI"
 theme: "PaperMod"
@@ -27,15 +27,19 @@ params:
 
 menu:
   main:
+    - identifers: omoss
+      name: Om oss
+      url: /omoss
+      weight: 10
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 10
+      weight: 20
     - identifier: tages
       name: Tags
       url: /Tags/
-      weight: 20
+      weight: 30
     - identifier: archives
       name: Arkiv
       url: /archives/
-      weight: 30
+      weight: 40
