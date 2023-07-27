@@ -4,24 +4,21 @@ title: "SIFI"
 theme: "PaperMod"
 
 
-
 params:
-
+  defaultTheme: light 
   homeInfoParams:
     Title: "SIFI - Sikkerhet på IFI"
-    Content: "SIFI er en linjeforening til masterprogrammet Informasjonssikkerhet på UiO. \n\n Mer tekst her. "
+    Content: "SIFI er en linjeforening til masterprogrammet Informasjonssikkerhet på UiO. \n\n "
   socialIcons:
     - name: facebook
       url: "https://www.facebook.com/profile.php?id=100091625065665"
     - name: discord
-      url: "https://discord.com/xxxxx"
+      url: "https://discord.com/invite/rgE66SkUAt"
     - name: instagram
       url: "https://www.instagram.com/sikkerhetifi/"
 
 
-
   ShowBreadCrumbs: True
-
   ShowPostNavLinks: true
 
 
