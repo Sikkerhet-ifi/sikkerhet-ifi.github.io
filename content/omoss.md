@@ -7,18 +7,26 @@ summary: omoss
 
 
 
+
 ### Hvem er vi?
-Vi er linjeforeningen til masterprogrammet informasjonssikkerhet ved universitetet i Oslo, og består for øyeblikket av 9 styremedlemmer, samt 15 interne, som bidrar til å fremme det sosiale og fagelige miljøet ved programmet og oss i mellom<33
+
+Vi er en studentorganisasjon for ...
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
 
 ### Hva gjør vi?
-Hovedsakelig arrangerer vi arrangementer for studenter tilhørende masterprogrammet vi er linjeforening for, informasjonssikkerhet, samt studenter tilhørende instiuttet vi tilhører! Vi holder diverse sosiale arrangementer som feks. bowling, middager og filmkvelder, og innimellom litt større ting som hytteturer og jule/sommeravslutninger. I tillegg har vi også en del sikkerhetsrelaterte arrangementer som feks. diverse foredrag, "nytt i tech m/infosec" og egne CTF'er.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Hvem kan delta på arrangementer?
-Ettersom vi er en foreningen som tilhører UiO, instituttet for informatikk, er vår hovedmålgruppe studentene ved dette instiutt, hvorav alle studenter her er velkommen til å delta på våre arrangementer<33 Likevel arrangerer vi også diverse arrangementer innad sikkerhet, IT-sikkerhet, CTF'er etc., og oppfordrer alle med interresse/et lite øye for dette til å ta turen innom våre arrangementer! Dere er også veldig velkommen<33
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Hvem kan melde seg inn?
-SIFI holder generalforsamling 2 ganger i året, en i slutten av februar/starten av mars og en i slutten av aug/starten av september. For å bli med i styret er det bare å møte opp og stille til valg på generalforsamling! Informasjon om nøyaktig tid og sted blir hovedsakelig lagt ut på FB-siden vår, men kan og bli funnet på diverse andre sosiale platformer vi tar i bruk (Discord, Insta etc.)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+
+
 
 ### Hvordan bli intern?
-På lik linje med å bli medlem av SIFI, søker vi også etter nye interne på samme tidsrom hvert semester, altså slutten av februar/starten av mars slutten av aug/starten av september. Under generalforsamling blir det presentert en påmeldingslink, og da er det bare å sende inn en søknad og forklare hvorfor akkurat DU vil bli intern hos oss<33
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
