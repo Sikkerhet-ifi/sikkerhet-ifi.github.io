@@ -31,7 +31,11 @@ menu:
     - identifier: categories
       name: Categories
       url: /categories/
-      weight: 20
+      weight: 10
+    - identifier: ctf
+      name: CTF
+      url: /ctf/
+      weight: 10
     - identifier: tages
       name: Tags
       url: /Tags/
