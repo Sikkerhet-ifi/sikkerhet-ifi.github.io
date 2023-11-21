@@ -31,8 +31,8 @@ menu:
     - identifier: ctf
       name: CTF
       url: /ctf/
-      weight: 10
+      weight: 20
     - identifier: archives
       name: Arkiv
       url: /archives/
-      weight: 40
+      weight: 30
