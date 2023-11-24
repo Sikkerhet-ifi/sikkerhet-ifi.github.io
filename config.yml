@@ -24,15 +24,19 @@ params:
 
 menu:
   main:
+    - identifers: home
+      name: Home
+      url: ${{baseURL}}
+      weight: 10
     - identifers: omoss
       name: Om oss
       url: /omoss
-      weight: 10
+      weight: 20
     - identifier: ctf
       name: CTF
       url: /ctf/
-      weight: 20
+      weight: 30
     - identifier: archives
       name: Arkiv
       url: /archives/
-      weight: 30
+      weight: 40
