@@ -1,7 +1,7 @@
 ---
-title: "SIFIs JuleCTF"
-date: 2023-12-01 - 2023-12-24
+title: "Fremtidige annonseringer"
+date: 2023-07-26T22:20:38+02:00
 draft: false
 ---
 
-SIFI har laget sin aller første CTF-konkurranse, og inviterer DEG til årets juleCTF❤️🥰
+Oppdateringer om arrangementer vil bli publisert på nettsiden.
