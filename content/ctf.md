@@ -30,6 +30,8 @@ Etterhvert som man får til de nevnte kan man bevege seg videre til flere andre,
 
 Og mange mange fler! 
 
+**Kilde: Helt Sikker, https://heltsikker.no/ctf/ <3
+
 ### Arrangerer SIFI CTF?
 JAAA, foreningen SIFI arrangerer et CTF arrangement i semesteret, samt en årlig julekalender! Sjekk FB-siden vår eller "Fremtidige annonseringer" for mer informasjon!
 
