@@ -23,3 +23,4 @@ SIFI holder generalforsamling 2 ganger i året, en i slutten av februar/starten 
 ### Hvordan bli intern?
 På lik linje med å bli medlem av SIFI, søker vi også etter nye interne på samme tidsrom hvert semester, altså slutten av februar/starten av mars slutten av aug/starten av september. Under generalforsamling blir det presentert en påmeldingslink, og da er det bare å sende inn en søknad og forklare hvorfor akkurat DU vil bli intern hos oss<33
 
+<!--- I feel like our website needs some pictures. I was on a hike to Preikestolen last year and took some pictures. Maybe we can use one of them? I have put them all here: https://drive.google.com/drive/folders/1-YMd2P6B30lgx8x-cQuUso16x3cr0WBr?usp=sharing -->
