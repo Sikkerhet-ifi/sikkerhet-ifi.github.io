@@ -5,8 +5,9 @@ url: "/omoss/"
 summary: omoss
 ---
 
-
-
+<!-- 
+  test test
+-->
 
 ### Hvem er vi?
 Vi er linjeforeningen til masterprogrammet informasjonssikkerhet ved universitetet i Oslo, og består for øyeblikket av 9 styremedlemmer, samt 15 interne, som bidrar til å fremme det sosiale og fagelige miljøet ved programmet og oss imellom<33
@@ -22,3 +23,5 @@ SIFI holder generalforsamling 2 ganger i året, en i slutten av februar/starten 
 
 ### Hvordan bli intern?
 På lik linje med å bli medlem av SIFI, søker vi også etter nye interne på samme tidsrom hvert semester, altså slutten av februar/starten av mars slutten av aug/starten av september. Under generalforsamling blir det presentert en påmeldingslink, og da er det bare å sende inn en søknad og forklare hvorfor akkurat DU vil bli intern hos oss<33
+
+
