@@ -5,13 +5,11 @@ url: "/omoss/"
 summary: omoss
 ---
 
-<!-- 
-  test test
--->
+
 
 ### Hvem er vi?
 Vi er linjeforeningen til masterprogrammet informasjonssikkerhet ved universitetet i Oslo, og består for øyeblikket av 9 styremedlemmer, samt 15 interne, som bidrar til å fremme det sosiale og fagelige miljøet ved programmet og oss imellom<33
-
+{{"<!-- testtest //-->" | safeHTML }}
 ### Hva gjør vi?
 Hovedsakelig arrangerer vi arrangementer for studenter tilhørende masterprogrammet vi er linjeforening for, informasjonssikkerhet, samt studenter tilhørende instituttet vi tilhører! Vi holder diverse sosiale arrangementer som feks. bowling, middager og filmkvelder, og innimellom litt større ting som hytteturer og jule/sommeravslutninger. I tillegg har vi også en del sikkerhetsrelaterte arrangementer som feks. diverse foredrag, "nytt i tech m/infosec" og egne CTF'er.
 
