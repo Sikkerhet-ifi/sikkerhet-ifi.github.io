@@ -5,7 +5,6 @@ url: "/bedrift/"
 summary: bedrift
 ---
 
-# Bedriftspresentasjon m/SIFI
 ## For bedrifter 
 ### SIFIs formål
 SIFIs formål ved å holde egne bedriftspresentasjoner / faglige foredrag uavhengig av IFI Navet, er for å gjøre det enklere for bedrifter å komme i kontakt med studentene på masternivå ved Institutt for informatikk, UiO. Vi vil derfor fungere som et av instituttets koordinerings- og kommunikasjonssentral for bedrifter som ønsker å komme i kontakt med kun masterstudenter, ved å blant annet arrangere bedriftspresentasjoner og tilby en plattform for stillingsannonser.
