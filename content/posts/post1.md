@@ -1,12 +1,8 @@
 ---
-title: "SIFIs JuleCTF"
-date from: 2023-12-01
-date to: 2023-12-24
-draft: false
+title: "Nytt tech m/infosec"
+date: 2024-02-08
+place: Seminarrom Prolog
 ---
-SIFI har laget sin aller første CTF-konkurranse, og inviterer DEG til årets juleCTF❤️🥰 (eeekkk) Så hva venter du på?? Huk tak i venner og kjente, familie og fremmede og prøv deg på årets challenges!! 
 
----> https://ctf.sifi.no/
-
-NY LUKE HVER DAG fra 1. desember til jul<33
+Velkommen til "Nytt i tech m/infosec"! Inspirert av fagutvalget ØI sin Avisrunde inviterer vi personer med erfaring og/eller interessante perspektiver til å scrolle tech-nyheter og rante litt på morrakvisten med oss. Vår neste gjest er foreleser og førsteamanuensis; Nils Gruschka🥳🥰 Håper vi ses!
 
