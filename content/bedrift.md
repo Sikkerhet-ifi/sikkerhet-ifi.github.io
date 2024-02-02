@@ -17,7 +17,7 @@ SIFI kan tilby publisering av stillingsannonser på vår hjemmeside (sifi.no), s
 
   
   
-## Bedriftspresentasjon, kurs og foredrag
+## Bedriftspresentasjon, workshop og sikkerhetsforedrag
 Hvert semester vil SIFI kontakte aktuelle bedrifter med en invitasjon og oppfordring til å søke om og holde bedriftspresentasjon det påfølgende semesteret, og kommer til å sikte på å holde 1-2 i måneden, avhengig av etterspørsel og respons.
 
 Dersom din bedrift ønsker å holde en bedriftspresentasjon ved Institutt for informatikk for masterstudenter, kan dere sende en mail til styret (sikkerhet@ifi.uio.no), og dere vil få mulighet ved neste anledning og/eller semester gjennom våre maillister.
