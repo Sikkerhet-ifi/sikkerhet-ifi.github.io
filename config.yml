@@ -36,11 +36,7 @@ menu:
       name: CTF
       url: /ctf/
       weight: 30
-    - identifier: Bedrift
-      name: Bedrift
-      url: /bedrift/
-      weight: 40
     - identifier: archives
       name: Arkiv
       url: /archives/
-      weight: 50
+      weight: 40
